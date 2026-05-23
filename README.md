@@ -8,6 +8,3 @@ I'm a middle school student learning web development and Python.
 - CSS
 - Python
 - Git/GitHub
-
-## My projects
-
