@@ -19,3 +19,7 @@
 [![Music Player](https://img.shields.io/badge/Music%20Player-Visit-brightgreen?logo=github&style=for-the-badge)](https://doremsa.github.io/music-player)
 
 [![Bor History](https://img.shields.io/badge/History%20of%20Bor-Visit-brightgreen?logo=github&style=for-the-badge)](https://doremsa.github.io/bor-history)
+
+## Top Languages
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=doremsa&layout=compact&theme=tokyonight)
