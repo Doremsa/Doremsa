@@ -1,6 +1,6 @@
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Hi,%20I'm%20Gleb!&fontSize=50&fontColor=ffffff)
 
-I'm a middle school student learning web development and Python.
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&size=20&pause=1000&color=000000&width=500&lines=Middle+school+student+%F0%9F%8E%93;Learning+web+dev+%26+Python+%F0%9F%92%BB;Building+real+projects+%F0%9F%9A%80)](https://git.io/typing-svg)
 
 ## Skills
 
@@ -18,4 +18,4 @@ I'm a middle school student learning web development and Python.
 
 [![Music Player](https://img.shields.io/badge/Music%20Player-Visit-brightgreen?logo=github&style=for-the-badge)](https://doremsa.github.io/music-player)
 
-[![History of Bor](https://img.shields.io/badge/History%20of%20Bor-Visit-brightgreen?logo=github&style=for-the-badge)](https://doremsa.github.io/BorHistory)
+[![Bor History](https://img.shields.io/badge/History%20of%20Bor-Visit-brightgreen?logo=github&style=for-the-badge)](https://doremsa.github.io/bor-history)
